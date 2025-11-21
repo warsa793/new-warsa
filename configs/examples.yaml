@@ -6,3 +6,5 @@
 
   resources:
 
+    cpu: '200m'
+
