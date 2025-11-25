@@ -12,3 +12,5 @@
 
     - name: APP_ENV
 
+      value: 'development'
+
