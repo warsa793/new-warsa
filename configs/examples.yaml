@@ -16,3 +16,5 @@
 
 # keep configuration small and readable
 
+service:
+
