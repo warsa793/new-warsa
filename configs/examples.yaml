@@ -18,3 +18,5 @@
 
 service:
 
+  replicas: 2
+
