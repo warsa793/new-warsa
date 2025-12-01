@@ -22,3 +22,5 @@ service:
 
   resources:
 
+    cpu: '200m'
+
