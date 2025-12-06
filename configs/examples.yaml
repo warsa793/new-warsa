@@ -28,3 +28,5 @@ service:
 
       value: 'development'
 
+# keep configuration small and readable
+
