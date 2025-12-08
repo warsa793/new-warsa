@@ -30,3 +30,7 @@ service:
 
 # keep configuration small and readable
 
+
+- Consider a dedicated branch for experimental features, separate from `main`.
+- Implement a robust CI/CD pipeline for automated testing and deployment.
+
