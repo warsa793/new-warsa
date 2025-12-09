@@ -34,3 +34,7 @@ service:
 - Consider a dedicated branch for experimental features, separate from `main`.
 - Implement a robust CI/CD pipeline for automated testing and deployment.
 
+
+*   Consider a separate `docs/` directory for detailed usage guides and architectural overviews.
+*   Implement a CONTRIBUTING.md file to outline contribution guidelines and standards.
+
