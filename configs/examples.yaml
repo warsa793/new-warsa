@@ -38,3 +38,7 @@ service:
 *   Consider a separate `docs/` directory for detailed usage guides and architectural overviews.
 *   Implement a CONTRIBUTING.md file to outline contribution guidelines and standards.
 
+
+Consider adding a roadmap outlining planned features and development milestones.
+Explore integrating CI/CD pipelines for automated testing and deployment.
+
