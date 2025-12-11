@@ -42,3 +42,7 @@ service:
 Consider adding a roadmap outlining planned features and development milestones.
 Explore integrating CI/CD pipelines for automated testing and deployment.
 
+
+Consider adding a `CONTRIBUTING.md` file outlining contribution guidelines.
+Implement unit tests for core functionalities to ensure stability.
+
