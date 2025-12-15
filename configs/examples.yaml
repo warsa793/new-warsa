@@ -65,3 +65,7 @@ However, based solely on the name "new-warsa", here are some general, speculativ
 Consider adding a `Dockerfile` for easier deployment and containerization.
 Explore potential integrations with popular CI/CD pipelines like GitHub Actions or GitLab CI.
 
+
+Consider adding a `CHANGELOG.md` file.
+Explore using a linter like Black for code formatting consistency.
+
