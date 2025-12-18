@@ -77,3 +77,7 @@ Explore using a linter like Black for code formatting consistency.
 Consider adding a CI/CD pipeline for automated testing and deployment.
 Explore integrating a documentation generator like Sphinx or MkDocs.
 
+
+Consider adding a README explaining the project's purpose and setup.
+Explore integrating a CI/CD pipeline for automated testing and deployment.
+
