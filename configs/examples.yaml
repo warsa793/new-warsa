@@ -81,3 +81,7 @@ Explore integrating a documentation generator like Sphinx or MkDocs.
 Consider adding a README explaining the project's purpose and setup.
 Explore integrating a CI/CD pipeline for automated testing and deployment.
 
+
+*   Consider adding a `.github/workflows` directory for CI/CD automation (e.g., linting, testing).
+*   Implement a `LICENSE` file to clearly define usage and distribution rights.
+
