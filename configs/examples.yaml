@@ -97,3 +97,7 @@ Include a 'Case Studies' section to explore specific examples of New Wars, their
 *   Consider a modular design for different historical periods or regions.
 *   Implement a version control system for tracking changes and contributions.
 
+
+Consider adding a `docs/` directory for project documentation.
+Explore integrating a CI/CD pipeline for automated testing and deployment.
+
