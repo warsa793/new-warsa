@@ -101,3 +101,7 @@ Include a 'Case Studies' section to explore specific examples of New Wars, their
 Consider adding a `docs/` directory for project documentation.
 Explore integrating a CI/CD pipeline for automated testing and deployment.
 
+
+- Consider adding a CONTRIBUTING.md file to outline guidelines for contributors.
+- Explore integration with CI/CD pipelines for automated testing and deployment.
+
