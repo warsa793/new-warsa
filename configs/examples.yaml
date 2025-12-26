@@ -105,3 +105,7 @@ Explore integrating a CI/CD pipeline for automated testing and deployment.
 - Consider adding a CONTRIBUTING.md file to outline guidelines for contributors.
 - Explore integration with CI/CD pipelines for automated testing and deployment.
 
+
+*   Consider adding a CI/CD pipeline for automated testing and deployment.
+*   Explore using a configuration management tool like Ansible or Chef to streamline setup and maintenance.
+
