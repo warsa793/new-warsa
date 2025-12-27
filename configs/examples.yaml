@@ -113,3 +113,7 @@ Explore integrating a CI/CD pipeline for automated testing and deployment.
 *   Consider adding a `.gitignore` file to exclude build artifacts and dependency directories.
 *   Explore using a CI/CD pipeline for automated testing and deployment.
 
+
+Consider adding a README explaining the project's purpose and how to run it.
+Explore using a configuration file (e.g., YAML, JSON) for easier management of settings.
+
