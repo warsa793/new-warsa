@@ -109,3 +109,7 @@ Explore integrating a CI/CD pipeline for automated testing and deployment.
 *   Consider adding a CI/CD pipeline for automated testing and deployment.
 *   Explore using a configuration management tool like Ansible or Chef to streamline setup and maintenance.
 
+
+*   Consider adding a `.gitignore` file to exclude build artifacts and dependency directories.
+*   Explore using a CI/CD pipeline for automated testing and deployment.
+
