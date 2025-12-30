@@ -122,3 +122,7 @@ Consider adding a `CONTRIBUTING.md` file with guidelines for community contribut
 
 Explore integrating a CI/CD pipeline for automated testing and deployment.
 
+
+Consider adding a `.github/workflows` directory for CI/CD.
+Explore adding example usage documentation within the README.
+
