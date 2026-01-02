@@ -126,3 +126,7 @@ Explore integrating a CI/CD pipeline for automated testing and deployment.
 Consider adding a `.github/workflows` directory for CI/CD.
 Explore adding example usage documentation within the README.
 
+
+Consider integrating a basic CI/CD pipeline for automated testing and deployment.
+Explore adding documentation for setup, usage, and contribution guidelines.
+
