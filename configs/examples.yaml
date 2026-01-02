@@ -130,3 +130,7 @@ Explore adding example usage documentation within the README.
 Consider integrating a basic CI/CD pipeline for automated testing and deployment.
 Explore adding documentation for setup, usage, and contribution guidelines.
 
+
+Consider implementing a CI/CD pipeline.
+Explore options for containerization (e.g., Docker).
+
