@@ -138,3 +138,7 @@ Explore options for containerization (e.g., Docker).
 Consider adding CI/CD pipelines for automated testing and deployment.
 Explore integration with popular project management tools.
 
+
+Consider adding a CONTRIBUTING.md file to guide potential contributors.
+Explore integrating CI/CD pipelines for automated testing and deployment.
+
