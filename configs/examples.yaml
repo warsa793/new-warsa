@@ -150,3 +150,7 @@ Explore adding unit tests for key functionalities.
 * Consider adding a CONTRIBUTING.md file to guide potential contributors.
 * Explore CI/CD integration for automated testing and deployment.
 
+
+- Consider adding a `/docs` directory for project documentation.
+- Implement CI/CD pipelines for automated testing and deployment.
+
