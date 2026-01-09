@@ -154,3 +154,7 @@ Explore adding unit tests for key functionalities.
 - Consider adding a `/docs` directory for project documentation.
 - Implement CI/CD pipelines for automated testing and deployment.
 
+
+Consider a CI/CD pipeline for automated testing and deployment.
+Explore integrating a vulnerability scanner for security best practices.
+
