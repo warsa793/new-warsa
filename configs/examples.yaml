@@ -180,3 +180,8 @@ Explore options for showcasing successful use cases or testimonials from early a
 Consider a README.md explaining the project's goals and setup.
 Explore potential integration with existing open-source LLM projects.
 
+
+Consider a dedicated `docs/` directory for project documentation, including a `CONTRIBUTING.md` file to guide potential contributors.
+
+Explore a monorepo structure if the project is expected to grow into multiple distinct but related services or libraries.
+
