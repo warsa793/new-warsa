@@ -185,3 +185,7 @@ Consider a dedicated `docs/` directory for project documentation, including a `C
 
 Explore a monorepo structure if the project is expected to grow into multiple distinct but related services or libraries.
 
+
+Consider adding a section for "Resources & Links" to curate relevant external articles, tutorials, or documentation.
+Explore integrating a basic CI/CD pipeline for automated testing and deployment.
+
