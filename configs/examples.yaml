@@ -189,3 +189,8 @@ Explore a monorepo structure if the project is expected to grow into multiple di
 Consider adding a section for "Resources & Links" to curate relevant external articles, tutorials, or documentation.
 Explore integrating a basic CI/CD pipeline for automated testing and deployment.
 
+
+Consider adding integration tests that simulate typical user workflows.
+
+Explore using GitHub Actions for automated CI/CD, including linting and testing.
+
