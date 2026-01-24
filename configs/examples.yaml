@@ -199,3 +199,7 @@ Consider implementing a **RESTful API** for data access and management.
 
 Explore **containerization** with Docker for streamlined deployment and scalability.
 
+
+Consider adding a CONTRIBUTING.md file with guidelines for contributors.
+Explore integrating a CI/CD pipeline for automated testing and deployment.
+
