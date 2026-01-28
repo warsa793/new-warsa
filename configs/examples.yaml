@@ -211,3 +211,8 @@ Explore a CI/CD pipeline integration for automated testing and deployment.
 Consider incorporating documentation for the `new-warsa` tooling.
 Explore potential integrations with CI/CD pipelines for automated testing and deployment.
 
+
+Consider a dedicated `docs/` folder for user guides, API documentation, and architectural overviews.
+
+Explore integrating a CI/CD pipeline for automated testing, building, and deployment.
+
