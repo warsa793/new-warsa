@@ -216,3 +216,8 @@ Consider a dedicated `docs/` folder for user guides, API documentation, and arch
 
 Explore integrating a CI/CD pipeline for automated testing, building, and deployment.
 
+
+Consider a README outlining the project's purpose, setup instructions, and potential contributions.
+
+Explore integrating a CI/CD pipeline for automated testing and deployment.
+
